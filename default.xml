@@ -130,7 +130,8 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="frameworks/av" name="ferhung-mtk/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="ferhung-mtk/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+<!--  <project path="frameworks/base" name="ferhung-mtk/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" /> -->
+  <project path="frameworks/base" name="fire855/android_frameworks_base-mtk" groups="pdk-cw-fs,pdk-fs" revision="cm-13.0-mt6592" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
