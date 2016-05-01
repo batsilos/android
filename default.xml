@@ -138,7 +138,7 @@
   <project path="frameworks/minikin" name="CyanogenMod/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/multidex" name="CyanogenMod/android_frameworks_multidex" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/native" name="ferhung-mtk/android_frameworks_native" groups="pdk" />
+<!--   <project path="frameworks/native" name="ferhung-mtk/android_frameworks_native" groups="pdk" />  -->
   <project path="frameworks/native" name="fire855/android_frameworks_native-mtk" groups="pdk" revision="cm-13.0-mt6592" />
   <project path="frameworks/opt/bitmap" name="CyanogenMod/android_frameworks_opt_bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="CyanogenMod/android_frameworks_opt_bluetooth" groups="pdk-cw-fs,pdk-fs" />
@@ -266,7 +266,7 @@
   <project path="packages/wallpapers/PhotoPhase" name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
   <project path="prebuilts/cmsdk" name="CyanogenMod/android_prebuilts_cmsdk" clone-depth="1" revision="master" />
   <project path="system/bt" name="ferhung-mtk/android_system_bt" groups="pdk" />
-  <project path="system/core" name="ferhung-mtk/android_system_core" groups="pdk" />
+  <!-- <project path="system/core" name="ferhung-mtk/android_system_core" groups="pdk" /> -->
   <project path="system/core" name="fire855/android_system_core-mtk" groups="pdk" revision="cm-13.0-mt6592" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" />
   <project path="system/extras/su" name="CyanogenMod/android_system_extras_su" />
